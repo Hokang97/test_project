@@ -1,0 +1,87 @@
+﻿  CBossMon.cpp
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(57,38): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(197,24): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(203,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(207,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(206,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(205,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(205,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(257,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(258,40): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(338,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CBullet_Mgr.cpp
+  CHero.cpp
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CBossMon.cpp(339,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(171,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(172,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(208,24): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(214,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(218,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(217,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(216,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(216,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(339,16): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(339,5): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(338,54): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(338,35): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CItem.cpp
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CHero.cpp(375,35): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMonster.cpp
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CItem.cpp(31,36): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMonster.cpp(87,24): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMonster.cpp(93,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMonster.cpp(96,33): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMonster.cpp(100,33): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMonster.cpp(105,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMonster.cpp(104,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMonster.cpp(103,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMonster_Mgr.cpp
+  CMyMain.cpp
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMonster.cpp(103,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMyMain.cpp(97,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMyMain.cpp(119,22): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMyMain.cpp(123,27): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMyMain.cpp(127,29): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMyMain.cpp(131,28): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CUI_Manager.cpp
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CMyMain.cpp(137,31): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(160,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(202,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(244,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(393,65): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(407,65): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(421,65): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(438,45): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(438,39): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(475,68): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(475,62): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(475,51): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(475,40): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(481,50): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(481,39): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(487,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(487,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(491,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(491,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(495,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(495,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(501,66): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(501,30): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(500,70): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(500,51): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(507,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(507,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(511,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(511,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(515,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(515,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(529,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(529,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(534,35): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\ShootingDefence_2020_2_6\CUI_Manager.cpp(600,36): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  61 of 594 functions (10.3%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ShootingDefence_2020_2_6.vcxproj -> D:\Client_2020_1_14_1800_Seo\Workspace\ShootingDefence_2020_2_6\x64\Release\ShootingDefence_2020_2_6.exe
