@@ -1,0 +1,9 @@
+﻿  CInputDlg.cpp
+D:\char\WinStudy_2020_2_27\WinStudy_2020_2_27\CMyMain.h(13,14): warning C4099: 'Student': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+D:\char\WinStudy_2020_2_27\WinStudy_2020_2_27\GlobalValue.h(14): message : 'Student' 선언을 참조하십시오.
+D:\char\WinStudy_2020_2_27\WinStudy_2020_2_27\CInputDlg.cpp(149,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+D:\char\WinStudy_2020_2_27\WinStudy_2020_2_27\CInputDlg.cpp(150,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+D:\char\WinStudy_2020_2_27\WinStudy_2020_2_27\CInputDlg.cpp(151,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+D:\char\WinStudy_2020_2_27\WinStudy_2020_2_27\CInputDlg.cpp(152,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+D:\char\WinStudy_2020_2_27\WinStudy_2020_2_27\CInputDlg.cpp(153,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+  WinStudy_2020_2_27.vcxproj -> D:\char\WinStudy_2020_2_27\x64\Debug\WinStudy_2020_2_27.exe

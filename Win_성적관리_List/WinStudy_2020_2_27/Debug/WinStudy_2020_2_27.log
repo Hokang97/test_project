@@ -1,0 +1,5 @@
+﻿  CMyMain.cpp
+  WinStudy_2020_2_27.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Administrator\source\repos\WinStudy_2020_2_27\WinStudy_2020_2_27\WinStudy_2020_2_27.cpp(182,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  WinStudy_2020_2_27.vcxproj -> C:\Users\Administrator\source\repos\WinStudy_2020_2_27\Debug\WinStudy_2020_2_27.exe
