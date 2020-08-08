@@ -1,0 +1,6 @@
+﻿  DoubleBuffer.cpp
+C:\Users\김강호\Desktop\C++\Cpp_갤로그\10_갤로그\10_갤로그\DoubleBuffer.cpp(20,17): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\김강호\Desktop\C++\Cpp_갤로그\10_갤로그\10_갤로그\DoubleBuffer.cpp(20,24): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\김강호\Desktop\C++\Cpp_갤로그\10_갤로그\10_갤로그\DoubleBuffer.cpp(50,27): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\김강호\Desktop\C++\Cpp_갤로그\10_갤로그\10_갤로그\DoubleBuffer.cpp(50,29): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  10_갤로그.vcxproj -> C:\Users\김강호\Desktop\C++\Cpp_갤로그\10_갤로그\Debug\10_갤로그.exe
