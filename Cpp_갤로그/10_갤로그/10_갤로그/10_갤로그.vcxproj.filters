@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\FrameWork\Object\AbstractClass">
       <UniqueIdentifier>{1468c058-c65f-4e39-ba55-a828e2468b1b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\FrameWork\Scene\MenuScene">
+      <UniqueIdentifier>{a48c9b34-529b-4a16-a401-e85b710238f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DoubleBuffer.h">
@@ -57,6 +60,15 @@
     <ClInclude Include="Scene.h">
       <Filter>소스 파일\FrameWork\Scene\Abstract</Filter>
     </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>소스 파일\FrameWork\Scene\MenuScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>소스 파일\FrameWork\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneDefine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DoubleBuffer.cpp">
@@ -64,6 +76,12 @@
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일\EntryPoint</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScene.cpp">
+      <Filter>소스 파일\FrameWork\Scene\MenuScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>소스 파일\FrameWork\SceneManager</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

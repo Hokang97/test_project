@@ -1,6 +1,5 @@
-#include "GameDefine.h"
 #include "System.h"
-
+#include "SceneDefine.h"
 System* System::_instance = nullptr;
 void Init();
 
@@ -15,7 +14,8 @@ int main()
 		System::getInstance()->GetDB()->ClearBuffer();
 
 		// Update, Render
-
+		System::getInstance()->GetSM()->Update(DELTATIME);
+		System::getInstance()->GetSM()->Render(DELTATIME);
 
 
 		System::getInstance()->GetDB()->FlippingBuffer();
@@ -29,4 +29,10 @@ void Init()
 {
 	// 시스템 매니저, 더블버퍼 생성 / 초기화
 	System::getInstance()->GetDB()->CreateBuffer(CONSOLE_MAX_WIDTH, CONSOLE_MAX_HEIGHT);
+
+	// 씬매니저 생성/초기화
+	System::getInstance()->GetSM()->RegisterScene("MenuScene", new MenuScene);
+
+	//씬 등록
+	System::getInstance()->GetSM()->reserveChangeScene("MenuScene");
 }
