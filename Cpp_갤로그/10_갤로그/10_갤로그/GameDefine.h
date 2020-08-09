@@ -10,8 +10,8 @@
 using namespace std;
 
 #define DELTATIME  0
-#define CONSOLE_MAX_WIDTH 100
-#define CONSOLE_MAX_HEIGHT 30
+#define CONSOLE_MAX_WIDTH	100
+#define CONSOLE_MAX_HEIGHT	30
 
 // 콘솔 색상표
 #define BLACK 0x00
@@ -30,4 +30,8 @@ using namespace std;
 #define LIGHTMAGENTA 0x0D
 #define YELLOW 0x0E
 #define WHITE 0x0F
+
+// 게임 메뉴
+#define MENU_GAME_START 0x00
+#define MENU_GAME_EXIT 0x01
 

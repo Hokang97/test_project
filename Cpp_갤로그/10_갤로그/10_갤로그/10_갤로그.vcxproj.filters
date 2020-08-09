@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\FrameWork\Scene\MenuScene">
       <UniqueIdentifier>{a48c9b34-529b-4a16-a401-e85b710238f3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\FrameWork\Scene\GameScene">
+      <UniqueIdentifier>{648fd1fb-45df-444b-b75b-b8bce1b3e3f8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DoubleBuffer.h">
@@ -69,6 +72,9 @@
     <ClInclude Include="SceneDefine.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>소스 파일\FrameWork\Scene\GameScene</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DoubleBuffer.cpp">
@@ -82,6 +88,9 @@
     </ClCompile>
     <ClCompile Include="SceneManager.cpp">
       <Filter>소스 파일\FrameWork\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>소스 파일\FrameWork\Scene\GameScene</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

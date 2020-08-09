@@ -9,6 +9,11 @@ public:
 	virtual void Render(float dt);
 	virtual void Destroy();
 
+	void DrawMenu();
+
+private:
+	WORD selectMenu = MENU_GAME_START;
+
 public:
 	MenuScene();
 	~MenuScene();

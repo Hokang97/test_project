@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DoubleBuffer.cpp" />
+    <ClCompile Include="GameScene.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MenuScene.cpp" />
     <ClCompile Include="SceneManager.cpp" />
@@ -146,6 +147,7 @@
   <ItemGroup>
     <ClInclude Include="DoubleBuffer.h" />
     <ClInclude Include="GameDefine.h" />
+    <ClInclude Include="GameScene.h" />
     <ClInclude Include="MenuScene.h" />
     <ClInclude Include="Object.h" />
     <ClInclude Include="Scene.h" />

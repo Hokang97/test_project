@@ -14,9 +14,8 @@ int main()
 		System::getInstance()->GetDB()->ClearBuffer();
 
 		// Update, Render
-		System::getInstance()->GetSM()->Update(DELTATIME);
 		System::getInstance()->GetSM()->Render(DELTATIME);
-
+		System::getInstance()->GetSM()->Update(DELTATIME);
 
 		System::getInstance()->GetDB()->FlippingBuffer();
 	}
@@ -32,6 +31,7 @@ void Init()
 
 	// 씬매니저 생성/초기화
 	System::getInstance()->GetSM()->RegisterScene("MenuScene", new MenuScene);
+	System::getInstance()->GetSM()->RegisterScene("GameScene", new GameScene);
 
 	//씬 등록
 	System::getInstance()->GetSM()->reserveChangeScene("MenuScene");

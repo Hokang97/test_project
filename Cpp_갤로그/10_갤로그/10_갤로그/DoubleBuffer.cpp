@@ -9,20 +9,21 @@ DoubleBuffer::~DoubleBuffer()
 {
 }
 
+
 HANDLE DoubleBuffer::GetBuffer()
 {
 	return m_hBuffer[m_BufferIndex];
 }
 
-void DoubleBuffer::CreateBuffer(const int& width, const int& height)
+void DoubleBuffer::CreateBuffer(const int &width, const int &height)
 {
 	CONSOLE_CURSOR_INFO cci;	// 콘솔창 커서 정보
 	COORD size = { width, height };	// 버퍼 크기를 저장하는 구조체
 	SMALL_RECT rect;			// 창 크기를 저장하는 구조체
 	rect.Left = 0;
 	rect.Top = 0;
-	rect.Right = 0;
-	rect.Bottom = 0;
+	rect.Right = width - 1;
+	rect.Bottom = height -1;
 
 	// 0번 버퍼 생성
 	m_hBuffer[0] = CreateConsoleScreenBuffer(GENERIC_READ | GENERIC_WRITE,
@@ -93,5 +94,4 @@ bool DoubleBuffer::CloseHandle(HANDLE& handle)
 	}
 	return false;
 }
-
 
