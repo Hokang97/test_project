@@ -6,7 +6,7 @@ class Object
 public:
 	virtual void Init() = 0;
 	virtual void Update(float dt) = 0;
-	virtual void Redner(float dt) = 0;
+	virtual void Render(float dt) = 0;
 	virtual void Destroy() = 0;
 
 protected:

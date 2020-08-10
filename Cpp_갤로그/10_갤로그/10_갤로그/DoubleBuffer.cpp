@@ -57,7 +57,7 @@ void DoubleBuffer::WriteBuffer(int x, int y, const char * string)
 
 void DoubleBuffer::FlippingBuffer()
 {
-	Sleep(30);
+	//Sleep(30);
 
 	// 버퍼 활성화
 	SetConsoleActiveScreenBuffer(m_hBuffer[m_BufferIndex]);

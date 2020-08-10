@@ -18,6 +18,12 @@ public:
 	void SetExit(BOOL done) { gameExit = done; }
 	BOOL GetExit() { return gameExit; }
 
+	void SetCollision(BOOL done) { gameCollision = done; }
+	BOOL GetCollision() { return gameCollision; }
+
+	void SetScore(BOOL value) { gameScore = value; }
+	SHORT GetScore() { return gameScore; }
+
 	void Destroy()
 	{
 		if (m_pSM != nullptr) delete m_pSM;
@@ -41,8 +47,12 @@ public:
 		return m_pSM;
 	}
 
+	
+
 private:
 	SceneManager* m_pSM = nullptr;	// 씬매니저
 	DoubleBuffer* m_pDB = nullptr;	// 더블버퍼
 	BOOL gameExit = FALSE;
+	BOOL gameCollision = FALSE;
+	SHORT gameScore = 0;
 };

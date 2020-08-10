@@ -4,6 +4,7 @@
 #include <conio.h>
 #include <string>
 #include <map>
+#include <vector>
 #include <Windows.h>
 #include <iostream>
 
